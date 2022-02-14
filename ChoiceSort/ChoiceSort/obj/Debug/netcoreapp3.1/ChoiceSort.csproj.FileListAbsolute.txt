@@ -1,0 +1,12 @@
+C:\Users\Татьяна\Desktop\ChoiceSort\ChoiceSort\bin\Debug\netcoreapp3.1\ChoiceSort.deps.json
+C:\Users\Татьяна\Desktop\ChoiceSort\ChoiceSort\bin\Debug\netcoreapp3.1\ChoiceSort.dll
+C:\Users\Татьяна\Desktop\ChoiceSort\ChoiceSort\bin\Debug\netcoreapp3.1\ChoiceSort.pdb
+C:\Users\Татьяна\Desktop\ChoiceSort\ChoiceSort\bin\Debug\netcoreapp3.1\Filters.dll
+C:\Users\Татьяна\Desktop\ChoiceSort\ChoiceSort\bin\Debug\netcoreapp3.1\sorting.dll
+C:\Users\Татьяна\Desktop\ChoiceSort\ChoiceSort\obj\Debug\netcoreapp3.1\ChoiceSort.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\ChoiceSort\ChoiceSort\obj\Debug\netcoreapp3.1\ChoiceSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\ChoiceSort\ChoiceSort\obj\Debug\netcoreapp3.1\ChoiceSort.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\ChoiceSort\ChoiceSort\obj\Debug\netcoreapp3.1\ChoiceSort.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\ChoiceSort\ChoiceSort\obj\Debug\netcoreapp3.1\ChoiceSort.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\ChoiceSort\ChoiceSort\obj\Debug\netcoreapp3.1\ChoiceSort.dll
+C:\Users\Татьяна\Desktop\ChoiceSort\ChoiceSort\obj\Debug\netcoreapp3.1\ChoiceSort.pdb
